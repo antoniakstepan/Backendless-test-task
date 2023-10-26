@@ -8,7 +8,7 @@ const App = () => {
   console.log("location", location)
   // Set the default tab if the URL doesn't have a tab specified
   useEffect(() => {
-    if (!location.pathname || location.pathname === '/') {
+    if (!location.pathname || location.pathname === '/' || location.pathname.includes("/B")) {
       // Redirect to the default tab using relative path
       navigate(`/tab/${data.defaultTab}`);
     }
