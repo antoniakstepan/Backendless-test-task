@@ -5,7 +5,6 @@ import data from '../data/tabs.json';
 const App = () => {
   const location = useLocation();
   const navigate = useNavigate(); // Get the navigate function
-  console.log("location", location)
   // Set the default tab if the URL doesn't have a tab specified
   useEffect(() => {
     if (!location.pathname || location.pathname === '/' || location.pathname.includes("/B")) {
