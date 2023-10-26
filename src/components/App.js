@@ -13,10 +13,10 @@ const App = () => {
   }, [location.pathname]);
 
   return (
-    <div>
-      <nav>
+    <div className='container'>
+      <nav className='nav'>
         {data.tabs.map((tab) => (
-          <Link key={tab.id} to={`/tab/${tab.id}`}>
+          <Link key={tab.id} to={`/tab/${tab.id}`} className='link'>
             {tab.title}
           </Link>
         ))}

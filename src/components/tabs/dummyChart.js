@@ -1,7 +1,7 @@
 import React from "react"
 
 const DummyChart = () => (
-  <table><tr><td>dummyChart</td><td>Chart</td></tr></table>
+  <table><tr><td className="title">Dummy Chart</td></tr></table>
 )
 
 export default DummyChart

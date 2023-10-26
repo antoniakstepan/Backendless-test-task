@@ -1,0 +1,32 @@
+body,
+h1,
+p,
+ul,
+li {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.nav {
+  display: flex;
+  gap: 5px 8px;
+}
+
+.link {
+  text-decoration: none;
+  color: rgb(14 165 233);
+}
+
+.link:hover {
+  text-decoration: underline;
+  opacity: 50%
+}
+
+.title {
+  font-size: 56px
+}
+
+.container {
+  padding: 12px 24px;
+}
