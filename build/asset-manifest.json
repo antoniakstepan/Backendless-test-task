@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.js": "/Backendless-test-task/static/js/main.7d59ac70.js",
+    "static/js/149.bc59b989.chunk.js": "/Backendless-test-task/static/js/149.bc59b989.chunk.js",
+    "static/js/570.fa66e6dc.chunk.js": "/Backendless-test-task/static/js/570.fa66e6dc.chunk.js",
+    "static/js/455.5f3cacac.chunk.js": "/Backendless-test-task/static/js/455.5f3cacac.chunk.js",
+    "index.html": "/Backendless-test-task/index.html",
+    "main.7d59ac70.js.map": "/Backendless-test-task/static/js/main.7d59ac70.js.map",
+    "149.bc59b989.chunk.js.map": "/Backendless-test-task/static/js/149.bc59b989.chunk.js.map",
+    "570.fa66e6dc.chunk.js.map": "/Backendless-test-task/static/js/570.fa66e6dc.chunk.js.map",
+    "455.5f3cacac.chunk.js.map": "/Backendless-test-task/static/js/455.5f3cacac.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.7d59ac70.js"
+  ]
+}
