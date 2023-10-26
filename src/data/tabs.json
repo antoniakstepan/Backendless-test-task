@@ -1,0 +1,23 @@
+{
+  "defaultTab": "1",
+  "tabs": [
+    {
+      "id": "1",
+      "title": "Dummy Table",
+      "order": 1,
+      "componentPath": "./tabs/dummyTable.js"
+    },
+    {
+      "id": "2",
+      "title": "Dummy Chart",
+      "order": 2,
+      "componentPath": "./tabs/dummyChart.js"
+    },
+    {
+      "id": "3",
+      "title": "Dummy List",
+      "order": 3,
+      "componentPath": "./tabs/dummyList.js"
+    }
+  ]
+}
